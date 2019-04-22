@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Alternative roads to equality"
+date:   2018-03-1 11:00:30 +0530
+#categories: jekyll update
+---
+	
+The answer to why equality in this [article][article] strikes a brilliant resemblance to the second ending of the well known story [Snow Brown and Seven Detergents][snowb] – a short, sweet story which still manages to strike hard.
+
+I think that the correspondence is established in its proposed solution of inequality in the sense that power inequities are being questioned (why less wage?, why less education?). Provided solution aims to raise women up in the power structure, but without affecting the structure itself, so that the collective consciousness now represents women along with the men, but still remains supreme. Going by the article, feminists and people working towards gender equality may be visualised as ‘dissenters within the Patriarchy’ - since they are the ones who question power inequities.
+
+We have observed through various texts that Patriarchy exists on a systemic level rather than an individual one. Most feminists define Patriarchy as a system of social relations, implying that it is not just some pandemonium operating at individual men versus women level.
+
+As mentioned previously, the solution to gender inequality proposed in the article interferes only with the composition of system (In 'Snow Brown and the Seven Detergents’, this system is the ‘Land of Blue Devils’, in real world, the system corresponds to Patriarchy). The collective consciousness of the society now represents both men and women, which is a fine approach to challenge Patriarchy, but only to a certain extent.
+
+The article does not really challenge Patriarchy as a ‘system’. It wants to fulfill the target of making sure that women play an active role in decision making and have the same leadership opportunities as men. However, it does not question the nature of leadership itself and the mentality which society makes a woman acquire to become a ‘leader’, which has been predominantly patriarchal, for instance. In that sense, it can also be argued as the reason why this article fails to resemble the third ending, which is more revolutionary and transforms the system itself, instead to just altering the composition of system.
+
+Another bug in this approach becomes apparent when we bring intersectionality into play. In most of past or existing societies, Patriarchy rarely existed/exists as a standalone social construct. What we have discussed in class is that Patriarchy exists in parallel with other social systems, for example casteism, capitalism, racism and so on. Hence, what really tends to happen is that a gradient of effects is established on separate sections of society. When we take into consideration the differential effects of patriarchy on these sections, along with the fact that the collective consciousness of the society is still supreme, we can clearly observe why it is nearly impossible to abolish general and not just gender inequality, going by the method proposed in the article.
+
+The reason is that the collective consciousness would still fail to represent some segments of society, lying at a specific intersection of the two social constructs. Hence, the perception of collective consciousness would remain coloured, although a different colour than the original one, but nonetheless coloured. This solution to this problem may be proposed by the third ending where the existence of collective consciousness becomes meaningless. The direct result of this notion would be the emergence of ‘Age of Celebrating Difference’ - in which problems could be solved by combining different viewpoints (viewpoints would become different because of different effects of same systems on people) and information they bring in instead of working with a singular dominant worldview.
+
+In this framework, if we go by the solution proposed by article, feminism’s goal of challenging Patriarchy may seem to work in the short run, but it might fail to emerge as a perfect solution since it does not remodel Patriarchy’s internal structure, but would only dilute out its effects, making it less biased – but keeping it intact.
+In essence, second ending changes the composition of the system, not the system itself – which is pretty much what is the article is trying to achieve. The third ending can be argued to be more revolutionary and alters the system itself.
+
+
+[article]: https://www.gvi.co.uk/blog/why-is-gender-equality-important/
+[snowb]: https://www.jstor.org/stable/40004461
+
