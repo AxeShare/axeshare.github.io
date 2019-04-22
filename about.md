@@ -1,13 +1,15 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 tags: about
 ---
 
-I am a third year bioengineering undergraduate at Indian Institute of Technology, Kanpur. My hometown is New Delhi, one of the most lively cities you must have heard of. From there, I received my school education from [Army Public School, Dhaula Kuan][aps]. Heck, even mentioning these names makes me feel wistful. My allegiance has always been with the use of technology for the greater good of humanity. Anyway, if I have something to present to you right here, it is my posts stacked up on the home page which are nothing but pristine creations of my own mental sentience. 
+If you want to know my specifics, check my [CV][cv].
 
-Moving on further, the subjects which I have mentioned down below are ginormous, all of them, and I am often unqualified to broach them up, but nevertheless, they broadly represent my academic inclination.
+I am a third year bioengineering undergraduate at Indian [Institute of Technology, Kanpur][iitk]. My hometown is New Delhi, one of the most lively cities you must have heard of. From there, I received my school education from [Army Public School, Dhaula Kuan][aps]. Heck, even mentioning these names makes me feel wistful. My allegiance has always been with the use of technology for the greater good of humanity. Anyway, if I have something to present to you right here, it is my posts stacked up on the home page which are nothing but pristine creations of my own mental sentience. 
+
+Moving on further, the subjects which I have mentioned down below are ginormous, all of them, and I am often unqualified to talk about them, but nevertheless, they broadly represent my academic inclination.
 
 General Interests:
 
@@ -40,3 +42,5 @@ So that about covers me up. I would love to know about you as well.
 Contact me on your favorite social media platform listed on top of this page, or Say Hello directly through email.
 
 [aps]: http://apsdk.com
+[iitk]: www.iitk.ac.in
+[cv]: home.iitk.ac.in/~akshaybt
