@@ -9,7 +9,7 @@ If you want to know my specifics, check my [CV][cv].
 
 I am a third year bioengineering undergraduate at Indian [Institute of Technology, Kanpur][iitk]. My hometown is New Delhi, one of the most lively cities you must have heard of. From there, I received my school education from [Army Public School, Dhaula Kuan][aps]. Heck, even mentioning these names makes me feel wistful. My allegiance has always been with the use of technology for the greater good of humanity. Anyway, if I have something to present to you right here, it is my posts stacked up on the home page which are nothing but pristine creations of my own mental sentience. 
 
->People, be them engineers, journalists, philosophers, or even scientists who fail to develop an aesthetic component in their >makeup are usually dry-as-dust pedants. For that reason, we must evoke our colorful imagery to guide us out of the forest of >abstractions and establish one to one relationship between human and nature. 
+>People, be them engineers, journalists, philosophers, or even scientists who fail to develop an aesthetic component in their makeup are usually dry-as-dust pedants. For that reason, we must evoke our colorful imagery to guide us out of the forest of abstractions and establish one to one relationship between human and nature. 
 
 Moving on further, the subjects which I have mentioned down below are ginormous, all of them, and I am often unqualified to talk about them, but nevertheless, they broadly represent my academic inclination.
 
