@@ -42,5 +42,5 @@ So that about covers me up. I would love to know about you as well.
 Contact me on your favorite social media platform listed on top of this page, or Say Hello directly through email.
 
 [aps]: http://apsdk.com
-[iitk]: www.iitk.ac.in
-[cv]: home.iitk.ac.in/~akshaybt
+[iitk]: http://iitk.ac.in
+[cv]: http://home.iitk.ac.in/~akshaybt
