@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Understanding patriarchal mindset"
+title:  "Origins of Patriarchy"
 date:   2018-05-17 21:45:30 +0530
 #categories: jekyll update
 ---
@@ -11,11 +11,8 @@ Traditionalist
 Marxist/Materialsitic
 Maternalist
 
-“It is the law of nature that woman should be kept under the dominance of man.”
 
-— Confucius
-
-If traditionalist approach to patriarchy ever needs be summed up in a single sentence, this quote by Confucius, a well known Chinese teacher and philosopher, would be quintessential. In fact, while seeking more information on the topic, few texts came across me as a brilliant tour de force in the context of patriarchy. The society, whether from its prehistoric epoch transitioned into an era where religious thought was dominant, or transcended to an era where scientific thought began to penetrate the culture, the traditionalists always held onto their idea of Women subordination. Traditionalist allegiance laid primarily with biological determinism.
+While seeking more information on the topic, few texts came across me as a brilliant tour de force in the context of patriarchy. The society, whether from its prehistoric epoch transitioned into an era where religious thought was dominant, or transcended to an era where scientific thought began to penetrate the culture, the traditionalists always held onto their idea of Women subordination. Traditionalist allegiance laid primarily with biological determinism.
 
 The only pursuit in which a traditionalist would acknowledge a woman, or rather a female to be precise, is her reproductive capacity and motherhood, which stands essential for survival of homo sapiens, failing to recognise any cultural/societal contribution from their side. Any argument which harms the their image of man-the-hunter, or bites off its undue credit, is unacceptable to a traditionalist.
 
