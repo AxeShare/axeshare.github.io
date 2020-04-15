@@ -7,7 +7,7 @@ tags: about
 
 If you want to know my specifics, check my [CV][cv].
 
-I am a fourth year undergraduate at Indian [Institute of Technology, Kanpur][iitk]. My hometown is New Delhi, and from there, I received my school education from [Army Public School, Dhaula Kuan][aps]. If I have something to present to you right here, it is my posts stacked up on the home page which are nothing but my thoughts and opinions about a number of social subjects, so of course you are free to disagree.
+I am a fourth year undergraduate at Indian [Institute of Technology, Kanpur][iitk]. My hometown is New Delhi, and from there, I received my school education from [Army Public School, Dhaula Kuan][aps]. If I have something to present to you right here, it is my posts stacked up on the home page which are nothing but my thoughts and opinions about a number of social subjects.
 
 >People, be them engineers, journalists, philosophers, or even scientists who fail to develop an aesthetic component in their makeup are usually dry-as-dust pedants. For that reason, we must evoke our colorful imagery to guide us out of the forest of abstractions and establish one to one relationship between human and nature. 
 
