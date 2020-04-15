@@ -14,6 +14,7 @@ I am a fourth year undergraduate at Indian [Institute of Technology, Kanpur][iit
 >We write, not because we claim to know more than others, but perhaps because we want to know more than others. Writers are explorers.
 
 Moving on further, the subjects which I have mentioned down below are ginormous, all of them, and I am often unqualified to talk about them, but nevertheless, this is my homepage and I going to take full leverage of it:P
+
 General Interests:
 
 1. English Literature
